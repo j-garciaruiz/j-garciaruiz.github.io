@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    {% seo %}
+
+    <link rel="stylesheet" href="{{ '/style.css' | relative_url }}">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+    {% if page.custom_css %}
+    <link rel="stylesheet" href="{{ page.custom_css | relative_url }}">
+    {% endif %}
+</head>
+<body>
+    {% include navigation.html %}
+
+    {{ content }}
+
+    {% include footer.html %}
+</body>
+</html>

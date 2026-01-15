@@ -1,0 +1,10 @@
+<nav class="navbar">
+    <div class="nav-container">
+        <a href="{{ '/' | relative_url }}" class="nav-logo">JGR</a>
+        <ul class="nav-menu">
+            {% for item in site.navigation %}
+            <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
+            {% endfor %}
+        </ul>
+    </div>
+</nav>
