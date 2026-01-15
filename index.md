@@ -1,0 +1,231 @@
+---
+layout: home
+title: Johnattan Garcia Ruiz
+description: Global Health Researcher, Health Policy Expert, affiliated with Harvard T.H. Chan School of Public Health
+---
+
+<section id="about" class="section">
+    <div class="container">
+        <h2 class="section-title">About</h2>
+        <div class="about-content">
+            <p>Johnattan Garcia-Ruiz, MPH, MBA, LL.B., is a Department Associate affiliated with the Takemi Program in International Health at the Harvard T.H. Chan School of Public Health Department of Global Health and Population. His research focuses on global health systems, pharmaceutical policy, and equitable access to medicines and health technologies in low- and middle-income countries. He is also a Lecturer at the Universidad de los Andes School of Law and the Universidad del Rosario School of Medicine and Health Sciences in Bogota, Colombia.</p>
+
+            <p>As Co-founder and Director of Decilion, a global health consulting firm, Johnattan leads projects at the intersection of comparative health systems analysis and digital communications. He has consulted with leading international organizations including the Pan American Health Organization (PAHO), Oxfam International, the Inter-American Development Bank, the Economic Commission for Latin America and the Caribbean (ECLAC), the World Health Organization, Expertise France, ACCESS Health International, and the U4 Anti-Corruption Resource Centre. His recent work includes assessing COVID-19 vaccine distribution inequities, analyzing pharmaceutical regulatory systems, evaluating policies to promote generics and biosimilars, and developing strategies to strengthen local drug manufacturing in Latin America.</p>
+
+            <p>He received his Law degree (LL.B.) from Universidad de los Andes in Bogota, Colombia, a Master of Public Health (MPH) degree in Global Health from Harvard University, and an MBA from Reuben College, University of Oxford, where he was a member of the Social Impact Lab at the Skoll Centre for Social Entrepreneurship.</p>
+
+            <p>Earlier in his career, Johnattan served as legal advisor to the Director of Medicines and Health Technologies at the Colombian Ministry of Health and Social Protection, focusing on drug access and price regulation. He co-founded the Environmental and Public Health Law Clinic at Universidad de los Andes, where he participated as amicus curiae for the Colombian Constitutional Court on pharmaceutical policy cases. He has also held positions at the Harvard Health Systems Innovation Lab, the Center for the Study of Law, Justice and Society (Dejusticia), the Center for Global Development, and the WHO Centre for Health Development in Kobe, Japan.</p>
+
+            <p>His research interests include global health, access to medicines and health technologies, comparative health systems, health reforms, and the use of digital technologies to communicate public health information.</p>
+
+            <div class="metrics-highlight">
+                <div class="metric-item">
+                    <div class="metric-number">10+</div>
+                    <div class="metric-label">Years in Global Health Policy</div>
+                </div>
+                <div class="metric-item">
+                    <div class="metric-number">15+</div>
+                    <div class="metric-label">Publications</div>
+                </div>
+                <div class="metric-item">
+                    <div class="metric-number">8+</div>
+                    <div class="metric-label">International Organizations</div>
+                </div>
+                <div class="metric-item">
+                    <div class="metric-number">3</div>
+                    <div class="metric-label">Degrees from Top Institutions</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="cta-section">
+    <div class="container">
+        <div class="cta-content">
+            <h2>Explore My Work</h2>
+            <p>Discover insights from global health research, data visualizations, and consulting projects</p>
+            <div class="cta-buttons">
+                <a href="{{ '/publications.html' | relative_url }}" class="cta-button cta-primary">View My Research</a>
+                <a href="{{ '/visualizations.html' | relative_url }}" class="cta-button cta-secondary">See Data Visualizations</a>
+                <a href="#contact" class="cta-button cta-secondary">Work With Me</a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="education" class="section section-alt">
+    <div class="container">
+        <h2 class="section-title">Education</h2>
+        <div class="timeline">
+            <div class="timeline-item">
+                <div class="timeline-marker"></div>
+                <div class="timeline-content">
+                    <h3>Master of Business Administration (MBA)</h3>
+                    <p class="institution">University of Oxford, Reuben College</p>
+                    <p class="details">Social Impact Lab, Skoll Centre for Social Entrepreneurship</p>
+                </div>
+            </div>
+            <div class="timeline-item">
+                <div class="timeline-marker"></div>
+                <div class="timeline-content">
+                    <h3>Master of Public Health (MPH)</h3>
+                    <p class="institution">Harvard University</p>
+                    <p class="details">Global Health Concentration</p>
+                </div>
+            </div>
+            <div class="timeline-item">
+                <div class="timeline-marker"></div>
+                <div class="timeline-content">
+                    <h3>Law Degree (LL.B.)</h3>
+                    <p class="institution">Universidad de los Andes</p>
+                    <p class="details">Bogota, Colombia</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="research" class="section">
+    <div class="container">
+        <h2 class="section-title">Research Interests</h2>
+        <div class="research-grid">
+            <div class="research-card">
+                <h3>Global Health</h3>
+                <p>Health systems strengthening and universal health coverage in low- and middle-income countries</p>
+            </div>
+            <div class="research-card">
+                <h3>Access to Medicines</h3>
+                <p>Pharmaceutical policy, drug pricing, and equitable access to health technologies</p>
+            </div>
+            <div class="research-card">
+                <h3>Comparative Health Systems</h3>
+                <p>Analysis of health system reforms and priority-setting mechanisms</p>
+            </div>
+            <div class="research-card">
+                <h3>Digital Health Communications</h3>
+                <p>Leveraging digital technologies to communicate public health information effectively</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="publications" class="section section-alt">
+    <div class="container">
+        <h2 class="section-title">Selected Recent Publications</h2>
+        <div class="publications-list">
+            <article class="publication">
+                <h3>The Evolution of Health Benefits Packages in Colombia: Thirty Years of Successes and Failures</h3>
+                <p class="authors">Brun Vergara M, <strong>Garcia Ruiz J</strong>, Guzman J</p>
+                <p class="journal">Health Systems & Reform, 2024</p>
+                <p class="description">Examines how Colombia's health benefits packages evolved from two explicit packages to an implicit approach covering everything for everyone, with lessons for other LMICs pursuing universal health coverage.</p>
+            </article>
+            <article class="publication">
+                <h3>Decriminalizing HIV in Colombia</h3>
+                <p class="authors">Duran Silva S, <strong>Garcia Ruiz J</strong>, et al.</p>
+                <p class="journal">Harvard Public Health Review (HPHR), Issue 38, 2021</p>
+                <p class="description">Argues that HIV criminalization is counterproductive and undermines public health goals, proposing alternative public health approaches.</p>
+            </article>
+            <article class="publication">
+                <h3>Closing the Gap Between Formal and Material Health Care Coverage in Colombia</h3>
+                <p class="authors">Lamprea E, <strong>Garcia J</strong></p>
+                <p class="journal">Health and Human Rights, 18(2), pp. 49-65, 2016</p>
+                <p class="description">Explores Colombia's path toward universal health coverage, distinguishing between formal and material access to health services.</p>
+            </article>
+        </div>
+        <div class="publications-link">
+            <a href="{{ '/publications.html' | relative_url }}">View All Publications →</a>
+        </div>
+    </div>
+</section>
+
+<section id="experience" class="section">
+    <div class="container">
+        <h2 class="section-title">Professional Experience</h2>
+        <div class="experience-grid">
+            <div class="experience-category">
+                <h3>Current Positions</h3>
+                <div class="experience-item">
+                    <h4>Department Associate</h4>
+                    <p class="org">Harvard T.H. Chan School of Public Health</p>
+                    <p>Takemi Program in International Health, Department of Global Health and Population</p>
+                </div>
+                <div class="experience-item">
+                    <h4>Co-founder & Director</h4>
+                    <p class="org">Decilion</p>
+                    <p>Global health consulting firm specializing in comparative health systems analysis and digital communications</p>
+                </div>
+                <div class="experience-item">
+                    <h4>Lecturer</h4>
+                    <p class="org">Universidad de los Andes & Universidad del Rosario</p>
+                    <p>School of Law and School of Medicine and Health Sciences, Bogota, Colombia</p>
+                </div>
+            </div>
+            <div class="experience-category">
+                <h3>Consulting & Research</h3>
+                <div class="experience-item">
+                    <p><strong>Oxfam International</strong> - COVID-19 vaccine distribution inequities in Latin America</p>
+                </div>
+                <div class="experience-item">
+                    <p><strong>Pan American Health Organization (PAHO)</strong> - Access to Essential Medicines and Medical Devices in Latin America and the Caribbean</p>
+                </div>
+                <div class="experience-item">
+                    <p><strong>U4 Anti-Corruption Resource Centre</strong> - Falsified medicines in Colombia</p>
+                </div>
+                <div class="experience-item">
+                    <p><strong>ACCESS Health International</strong> - Fintech for Universal Health Care in Latin America</p>
+                </div>
+            </div>
+            <div class="experience-category">
+                <h3>Previous Positions</h3>
+                <div class="experience-item">
+                    <h4>Senior Associate</h4>
+                    <p class="org">Harvard Health Systems Innovation Lab</p>
+                </div>
+                <div class="experience-item">
+                    <h4>Legal Advisor, Director of Medicines and Health Technologies</h4>
+                    <p class="org">Colombian Ministry of Health and Social Protection</p>
+                    <p>Drug access and price regulation</p>
+                </div>
+                <div class="experience-item">
+                    <h4>Researcher</h4>
+                    <p class="org">Dejusticia - Center for the Study of Law, Justice and Society</p>
+                </div>
+            </div>
+            <div class="experience-category">
+                <h3>Internships & Training</h3>
+                <div class="experience-item">
+                    <p><strong>Center for Global Development</strong> - Washington, D.C.</p>
+                </div>
+                <div class="experience-item">
+                    <p><strong>WHO Centre for Health Development</strong> - Kobe, Japan</p>
+                </div>
+                <div class="experience-item">
+                    <p><strong>Skoll Centre for Social Entrepreneurship</strong> - Social Impact Lab, University of Oxford</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="contact" class="section section-alt">
+    <div class="container">
+        <h2 class="section-title">Contact</h2>
+        <div class="contact-content">
+            <div class="contact-info">
+                <div class="contact-item">
+                    <h3>Academic Affiliation</h3>
+                    <p>Harvard T.H. Chan School of Public Health<br>
+                    Department of Global Health and Population<br>
+                    Takemi Program in International Health</p>
+                </div>
+                <div class="contact-links">
+                    <a href="https://hsph.harvard.edu/profile/johnattan-garcia-ruiz/" target="_blank" rel="noopener">Harvard Profile</a>
+                    <a href="https://scholar.google.com/citations?user={{ site.author.google_scholar }}" target="_blank" rel="noopener">Google Scholar</a>
+                    <a href="https://www.linkedin.com/in/{{ site.author.linkedin }}" target="_blank" rel="noopener">LinkedIn</a>
+                    <a href="https://twitter.com/{{ site.author.twitter }}" target="_blank" rel="noopener">Twitter</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
