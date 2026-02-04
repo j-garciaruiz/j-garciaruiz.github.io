@@ -1,10 +1,32 @@
 <nav class="navbar">
     <div class="nav-container">
         <a href="{{ '/' | relative_url }}" class="nav-logo">JGR</a>
-        <ul class="nav-menu">
+        <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="primary-navigation">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="nav-toggle-bar"></span>
+            <span class="nav-toggle-bar"></span>
+            <span class="nav-toggle-bar"></span>
+        </button>
+        <ul class="nav-menu" id="primary-navigation">
             {% for item in site.navigation %}
             <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
             {% endfor %}
         </ul>
     </div>
 </nav>
+<script>
+    document.addEventListener('DOMContentLoaded', () => {
+        const toggle = document.querySelector('.nav-toggle');
+        const menu = document.querySelector('#primary-navigation');
+
+        if (!toggle || !menu) {
+            return;
+        }
+
+        toggle.addEventListener('click', () => {
+            const isExpanded = toggle.getAttribute('aria-expanded') === 'true';
+            toggle.setAttribute('aria-expanded', String(!isExpanded));
+            menu.classList.toggle('is-open');
+        });
+    });
+</script>
