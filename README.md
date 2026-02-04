@@ -27,7 +27,7 @@ j-garciaruiz.github.io/
 ├── index.md                # Homepage content
 ├── publications.html       # Publications page
 ├── visualizations.html     # Data visualizations gallery
-├── blog.html               # Blog listing page
+├── blog.html               # Blog listing page (permalinked to /blog/)
 ├── style.css               # Main stylesheet
 ├── Gemfile                 # Ruby dependencies
 └── sitemap.xml             # SEO sitemap
