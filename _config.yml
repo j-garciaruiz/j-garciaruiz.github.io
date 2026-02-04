@@ -80,7 +80,7 @@ navigation:
   - title: Visualizations
     url: /visualizations.html
   - title: Insights
-    url: /blog.html
+    url: /blog/
   - title: Experience
     url: /#experience
   - title: Contact
