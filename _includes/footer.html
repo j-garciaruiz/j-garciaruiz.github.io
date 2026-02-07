@@ -1,5 +1,14 @@
 <footer class="footer">
     <div class="container">
-        <p>&copy; {{ 'now' | date: "%Y" }} {{ site.author.name }}. All rights reserved.</p>
+        <div class="footer-content">
+            <div class="footer-links">
+                <a href="https://hsph.harvard.edu/profile/johnattan-garcia-ruiz/" target="_blank" rel="noopener">Harvard Profile</a>
+                <a href="https://scholar.google.com/citations?user={{ site.author.google_scholar }}" target="_blank" rel="noopener">Google Scholar</a>
+                <a href="https://www.linkedin.com/in/{{ site.author.linkedin }}" target="_blank" rel="noopener">LinkedIn</a>
+                <a href="https://twitter.com/{{ site.author.twitter }}" target="_blank" rel="noopener">Twitter</a>
+            </div>
+            <div class="footer-divider"></div>
+            <p class="footer-copy">&copy; {{ 'now' | date: "%Y" }} {{ site.author.name }}. All rights reserved.</p>
+        </div>
     </div>
 </footer>

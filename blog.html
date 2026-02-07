@@ -1,41 +1,4 @@
 ---
-layout: null
-title: Research & Insights
-permalink: /blog/
----
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Research insights and analysis on global health policy, pharmaceutical access, and health systems by Johnattan Garcia Ruiz.">
-    <meta name="keywords" content="global health, health policy, pharmaceutical access, health systems, Latin America, research insights, health reform">
-    <meta name="author" content="Johnattan Garcia Ruiz">
-    <meta property="og:title" content="Research & Insights - Johnattan Garcia Ruiz">
-    <meta property="og:description" content="Analysis and commentary on global health policy, pharmaceutical access, and health systems">
-    <meta property="og:type" content="website">
-    <meta property="og:url" content="https://j-garciaruiz.github.io/blog/">
-    <title>Research & Insights | Johnattan Garcia Ruiz</title>
-    <link rel="stylesheet" href="style.css">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-</head>
-<body>
-    <nav class="navbar">
-        <div class="nav-container">
-            <a href="index.html" class="nav-logo">JGR</a>
-            <ul class="nav-menu">
-                <li><a href="index.html#about">About</a></li>
-                <li><a href="index.html#education">Education</a></li>
-                <li><a href="publications.html">Publications</a></li>
-                <li><a href="visualizations.html">Visualizations</a></li>
-                <li><a href="blog/">Insights</a></li>
-                <li><a href="index.html#experience">Experience</a></li>
-                <li><a href="index.html#contact">Contact</a></li>
-            </ul>
-        </div>
-    </nav>
 layout: page
 title: Research & Insights
 subtitle: Analysis and commentary on global health policy, pharmaceutical access, and health systems
@@ -46,8 +9,36 @@ description: Research insights and analysis on global health policy, pharmaceuti
 </div>
 
 <div class="blog-posts">
-    <!-- Blog Post 1 -->
+    {% for post in site.posts %}
     <article class="blog-post">
+        <div class="post-header">
+            <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+            <div class="post-meta">
+                <span class="post-date">{{ post.date | date: "%B %-d, %Y" }}</span>
+                {% assign post_category = post.category | default: post.categories | first %}
+                {% if post_category %}
+                <span class="post-category">{{ post_category }}</span>
+                {% endif %}
+            </div>
+        </div>
+        <div class="post-excerpt">
+            {{ post.excerpt }}
+        </div>
+        {% if post.tags %}
+        <div class="post-tags">
+            {% for tag in post.tags %}
+            <span class="tag">{{ tag }}</span>
+            {% endfor %}
+        </div>
+        {% endif %}
+    </article>
+    {% endfor %}
+</div>
+
+<h2 class="upcoming-title">Upcoming Posts</h2>
+
+<div class="blog-posts">
+    <article class="blog-post coming-soon">
         <div class="post-header">
             <h2>Lessons from 30 Years of Health Benefits Package Evolution in Colombia</h2>
             <div class="post-meta">
@@ -55,58 +46,6 @@ description: Research insights and analysis on global health policy, pharmaceuti
                 <span class="post-category">Health Systems</span>
             </div>
         </div>
-    </header>
-
-    <main>
-        <section class="section">
-            <div class="container">
-                <div class="blog-intro">
-                    <p>This space features analysis, insights, and reflections from my work in global health policy, pharmaceutical systems, and health reforms. Topics include access to medicines, health systems strengthening, regulatory policy, and lessons from comparative health systems research.</p>
-                </div>
-
-                <div class="blog-posts">
-                    {% assign posts = paginator.posts | default: site.posts %}
-                    {% for post in posts %}
-                    {% assign post_category = post.category | default: post.categories | first %}
-                    <article class="blog-post">
-                        <div class="post-header">
-                            <h2>{{ post.title }}</h2>
-                            <div class="post-meta">
-                                <span class="post-date">{{ post.date | date: "%B %-d, %Y" }}</span>
-                                {% if post_category %}
-                                <span class="post-category">{{ post_category }}</span>
-                                {% endif %}
-                            </div>
-                        </div>
-                        <div class="post-excerpt">
-                            {{ post.excerpt }}
-                        </div>
-                        {% if post.tags %}
-                        <div class="post-tags">
-                            {% for tag in post.tags %}
-                            <span class="tag">{{ tag }}</span>
-                            {% endfor %}
-                        </div>
-                        {% endif %}
-                    </article>
-                    {% endfor %}
-                </div>
-
-                {% if paginator %}
-                <div class="pagination">
-                    {% if paginator.previous_page %}
-                    <a class="pagination-prev" href="{{ paginator.previous_page_path | relative_url }}">Previous</a>
-                    {% else %}
-                    <span class="pagination-prev disabled">Previous</span>
-                    {% endif %}
-
-                    {% if paginator.next_page %}
-                    <a class="pagination-next" href="{{ paginator.next_page_path | relative_url }}">Next</a>
-                    {% else %}
-                    <span class="pagination-next disabled">Next</span>
-                    {% endif %}
-                </div>
-                {% endif %}
         <div class="post-excerpt">
             <p>Colombia's journey from explicit health benefits packages to implicit universal coverage offers valuable lessons for other countries pursuing universal health coverage. This analysis explores key success factors and persistent challenges in defining what should be covered by public health systems.</p>
         </div>
@@ -117,8 +56,7 @@ description: Research insights and analysis on global health policy, pharmaceuti
         </div>
     </article>
 
-    <!-- Blog Post 2 -->
-    <article class="blog-post">
+    <article class="blog-post coming-soon">
         <div class="post-header">
             <h2>The Challenge of Vaccine Equity: Reflections on COVID-19 Distribution in Latin America</h2>
             <div class="post-meta">
@@ -136,8 +74,7 @@ description: Research insights and analysis on global health policy, pharmaceuti
         </div>
     </article>
 
-    <!-- Blog Post 3 -->
-    <article class="blog-post">
+    <article class="blog-post coming-soon">
         <div class="post-header">
             <h2>Why Generics and Biosimilars Matter for Health System Sustainability</h2>
             <div class="post-meta">
@@ -155,8 +92,7 @@ description: Research insights and analysis on global health policy, pharmaceuti
         </div>
     </article>
 
-    <!-- Blog Post 4 -->
-    <article class="blog-post">
+    <article class="blog-post coming-soon">
         <div class="post-header">
             <h2>Strengthening Local Drug Manufacturing: Opportunities and Challenges</h2>
             <div class="post-meta">
@@ -174,8 +110,7 @@ description: Research insights and analysis on global health policy, pharmaceuti
         </div>
     </article>
 
-    <!-- Blog Post 5 -->
-    <article class="blog-post">
+    <article class="blog-post coming-soon">
         <div class="post-header">
             <h2>The Role of Digital Technologies in Communicating Public Health Information</h2>
             <div class="post-meta">
@@ -196,8 +131,4 @@ description: Research insights and analysis on global health policy, pharmaceuti
 
 <div class="blog-note">
     <p><strong>Note:</strong> This blog is currently under development. Content will be added regularly. For immediate inquiries or discussions, please <a href="{{ '/#contact' | relative_url }}">contact me</a> directly.</p>
-    <p style="margin-top: 1rem;"><em>This site is structured for easy conversion to Jekyll blog functionality for enhanced content management.</em></p>
 </div>
-    {% include footer.html %}
-</body>
-</html>
