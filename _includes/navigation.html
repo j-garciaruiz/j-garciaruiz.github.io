@@ -9,7 +9,7 @@
         </button>
         <ul class="nav-menu" id="primary-navigation">
             {% for item in site.navigation %}
-            <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
+            <li><a href="{{ item.url | relative_url }}"{% if page.url == item.url or item.url == page.permalink %} class="active"{% endif %}>{{ item.title }}</a></li>
             {% endfor %}
         </ul>
     </div>
@@ -28,5 +28,27 @@
             toggle.setAttribute('aria-expanded', String(!isExpanded));
             menu.classList.toggle('is-open');
         });
+
+        // Highlight active section on homepage scroll
+        if (window.location.pathname === '/' || window.location.pathname === '/index.html') {
+            const sections = document.querySelectorAll('section[id]');
+            const navLinks = document.querySelectorAll('.nav-menu a');
+
+            const observer = new IntersectionObserver((entries) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        const id = entry.target.getAttribute('id');
+                        navLinks.forEach(link => {
+                            link.classList.remove('active');
+                            if (link.getAttribute('href').includes('#' + id)) {
+                                link.classList.add('active');
+                            }
+                        });
+                    }
+                });
+            }, { rootMargin: '-20% 0px -60% 0px' });
+
+            sections.forEach(section => observer.observe(section));
+        }
     });
 </script>
