@@ -503,8 +503,14 @@ strong {
 /* Research Grid */
 .research-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    grid-template-columns: repeat(2, 1fr);
     gap: var(--spacing-md);
+}
+
+@media (min-width: 769px) {
+    .research-grid {
+        grid-template-columns: repeat(4, 1fr);
+    }
 }
 
 .research-card {
@@ -651,6 +657,239 @@ strong {
     font-size: 0.9rem;
     color: var(--color-text-muted);
     margin-bottom: 0;
+}
+
+/* Education Logos */
+.timeline-item-content {
+    display: flex;
+    align-items: flex-start;
+    gap: var(--spacing-sm);
+}
+
+.timeline-logo {
+    width: 40px;
+    height: 40px;
+    flex-shrink: 0;
+    object-fit: contain;
+    margin-top: 2px;
+    border-radius: 4px;
+}
+
+/* Experience Redesign */
+.exp-heading {
+    font-size: 1rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--color-crimson);
+    margin-bottom: var(--spacing-md);
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid var(--color-border);
+}
+
+.exp-current-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: var(--spacing-md);
+    margin-bottom: var(--spacing-lg);
+}
+
+.exp-card {
+    display: flex;
+    gap: var(--spacing-sm);
+    padding: var(--spacing-md);
+    background: var(--color-bg-alt);
+    border: 1px solid var(--color-border);
+    border-radius: 8px;
+    transition: box-shadow 0.2s ease;
+}
+
+.exp-card:hover {
+    box-shadow: var(--shadow-sm);
+}
+
+.exp-logo {
+    width: 36px;
+    height: 36px;
+    flex-shrink: 0;
+    object-fit: contain;
+    border-radius: 4px;
+    margin-top: 2px;
+}
+
+.exp-card-body h4 {
+    font-size: 1rem;
+    margin-bottom: 0.25rem;
+}
+
+.exp-org {
+    color: var(--color-gold-dark);
+    font-weight: 500;
+    font-size: 0.9rem;
+    margin-bottom: 0.25rem;
+}
+
+.exp-dates {
+    font-size: 0.85rem;
+    color: var(--color-text-muted);
+    margin-bottom: 0.25rem;
+}
+
+.exp-desc {
+    font-size: 0.9rem;
+    color: var(--color-text-muted);
+    margin-bottom: 0;
+}
+
+.exp-two-col {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: var(--spacing-md);
+}
+
+@media (max-width: 768px) {
+    .exp-two-col {
+        grid-template-columns: 1fr;
+    }
+}
+
+.exp-item {
+    display: flex;
+    gap: var(--spacing-sm);
+    padding: var(--spacing-sm) 0;
+    border-bottom: 1px solid var(--color-border-light);
+}
+
+.exp-item:last-child {
+    border-bottom: none;
+}
+
+.exp-logo-sm {
+    width: 28px;
+    height: 28px;
+    flex-shrink: 0;
+    object-fit: contain;
+    border-radius: 4px;
+    margin-top: 2px;
+}
+
+.exp-item h4 {
+    font-size: 0.95rem;
+    margin-bottom: 0.15rem;
+}
+
+.exp-item .exp-org {
+    font-size: 0.85rem;
+}
+
+.exp-item .exp-desc {
+    font-size: 0.85rem;
+}
+
+/* Compact Info Sections (Honors, Certifications, Languages) */
+.info-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: var(--spacing-lg);
+}
+
+.info-column h3 {
+    font-size: 1rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--color-crimson);
+    margin-bottom: var(--spacing-sm);
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid var(--color-border);
+}
+
+.info-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.info-list li {
+    padding: 0.5rem 0;
+    border-bottom: 1px solid var(--color-border-light);
+    font-size: 0.9rem;
+    color: var(--color-text-light);
+    line-height: 1.5;
+}
+
+.info-list li:last-child {
+    border-bottom: none;
+}
+
+.info-detail {
+    display: block;
+    font-size: 0.8rem;
+    color: var(--color-text-muted);
+    margin-top: 0.15rem;
+}
+
+.lang-pills {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-top: 0.5rem;
+}
+
+.lang-pill {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0.5rem 1rem;
+    background: var(--color-bg-alt);
+    border: 1px solid var(--color-border);
+    border-radius: 20px;
+    font-size: 0.9rem;
+    font-weight: 500;
+    color: var(--color-text);
+}
+
+.pill-level {
+    font-size: 0.75rem;
+    color: var(--color-text-muted);
+    font-weight: 400;
+}
+
+/* Footer Identity */
+.footer-identity {
+    text-align: center;
+    margin-bottom: var(--spacing-sm);
+}
+
+.footer-name {
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: rgba(255, 255, 255, 0.9);
+    margin-bottom: 0.25rem;
+}
+
+.footer-affiliation {
+    font-size: 0.9rem;
+    color: rgba(255, 255, 255, 0.6);
+    margin-bottom: 0.25rem;
+}
+
+.footer-affiliation a {
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.footer-affiliation a:hover {
+    color: white;
+}
+
+.footer-email {
+    font-size: 0.85rem;
+}
+
+.footer-email a {
+    color: rgba(255, 255, 255, 0.6);
+}
+
+.footer-email a:hover {
+    color: white;
 }
 
 /* Contact Section */
