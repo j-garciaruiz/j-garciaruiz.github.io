@@ -32,8 +32,8 @@ description: Global Health Consultant | Director @Decilion | Harvard MPH | Oxfor
                     <div class="metric-label">International Organizations</div>
                 </div>
                 <div class="metric-item">
-                    <div class="metric-number">5</div>
-                    <div class="metric-label">Languages</div>
+                    <div class="metric-number">3</div>
+                    <div class="metric-label">Degrees from Top Institutions</div>
                 </div>
             </div>
         </div>
@@ -48,7 +48,7 @@ description: Global Health Consultant | Director @Decilion | Harvard MPH | Oxfor
             <div class="cta-buttons">
                 <a href="{{ '/publications.html' | relative_url }}" class="cta-button cta-primary">View My Research</a>
                 <a href="{{ '/visualizations.html' | relative_url }}" class="cta-button cta-secondary">See Data Visualizations</a>
-                <a href="#contact" class="cta-button cta-secondary">Work With Me</a>
+                <a href="mailto:j.garcia@decilion.com" class="cta-button cta-secondary">Work With Me</a>
             </div>
         </div>
     </div>
@@ -61,25 +61,40 @@ description: Global Health Consultant | Director @Decilion | Harvard MPH | Oxfor
             <div class="timeline-item">
                 <div class="timeline-marker"></div>
                 <div class="timeline-content">
-                    <h3>Master of Business Administration (MBA)</h3>
-                    <p class="institution">University of Oxford &mdash; Sa&iuml;d Business School, 2021&ndash;2022</p>
-                    <p class="details">Member of the Social Impact Lab, Skoll Centre for Social Entrepreneurship</p>
+                    <div class="timeline-item-content">
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Oxford-University-Circlet.svg/64px-Oxford-University-Circlet.svg.png" alt="Oxford" class="timeline-logo">
+                        <div>
+                            <h3>Master of Business Administration (MBA)</h3>
+                            <p class="institution">University of Oxford &mdash; Sa&iuml;d Business School, 2021&ndash;2022</p>
+                            <p class="details">Member of the Social Impact Lab, Skoll Centre for Social Entrepreneurship</p>
+                        </div>
+                    </div>
                 </div>
             </div>
             <div class="timeline-item">
                 <div class="timeline-marker"></div>
                 <div class="timeline-content">
-                    <h3>Master of Public Health (MPH)</h3>
-                    <p class="institution">Harvard University &mdash; T.H. Chan School of Public Health, 2017&ndash;2019</p>
-                    <p class="details">Global Health Concentration</p>
+                    <div class="timeline-item-content">
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Harvard_University_coat_of_arms.svg/64px-Harvard_University_coat_of_arms.svg.png" alt="Harvard" class="timeline-logo">
+                        <div>
+                            <h3>Master of Public Health (MPH)</h3>
+                            <p class="institution">Harvard University &mdash; T.H. Chan School of Public Health, 2017&ndash;2019</p>
+                            <p class="details">Global Health Concentration</p>
+                        </div>
+                    </div>
                 </div>
             </div>
             <div class="timeline-item">
                 <div class="timeline-marker"></div>
                 <div class="timeline-content">
-                    <h3>Lawyer &mdash; LL.B. (U.S. J.D. equivalent)</h3>
-                    <p class="institution">Universidad de los Andes &mdash; School of Law, 2009&ndash;2014</p>
-                    <p class="details">Thesis: <em>Social Rights and Determinants of Health: Closing the Gap</em></p>
+                    <div class="timeline-item-content">
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Logotipo_de_la_Universidad_de_los_Andes_%28Colombia%29.svg/64px-Logotipo_de_la_Universidad_de_los_Andes_%28Colombia%29.svg.png" alt="Uniandes" class="timeline-logo">
+                        <div>
+                            <h3>Lawyer &mdash; LL.B. (U.S. J.D. equivalent)</h3>
+                            <p class="institution">Universidad de los Andes &mdash; School of Law, 2009&ndash;2014</p>
+                            <p class="details">Thesis: <em>Social Rights and Determinants of Health: Closing the Gap</em></p>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
@@ -148,89 +163,140 @@ description: Global Health Consultant | Director @Decilion | Harvard MPH | Oxfor
 <section id="experience" class="section">
     <div class="container">
         <h2 class="section-title">Professional Experience</h2>
-        <div class="experience-grid">
-            <div class="experience-category">
-                <h3>Current Positions</h3>
-                <div class="experience-item">
-                    <h4>Co-Founder and Managing Director</h4>
-                    <p class="org">Decilion (Dec 2023&ndash;Present)</p>
-                    <p>Global health consultancy specializing in research in comparative health systems and digital communication for international health organizations, top global health academic centers and a highly cited academic journal.</p>
+
+        <h3 class="exp-heading">Current Positions</h3>
+        <div class="exp-current-grid">
+            <div class="exp-card">
+                <img src="https://www.google.com/s2/favicons?domain=decilion.com&sz=128" alt="Decilion" class="exp-logo">
+                <div class="exp-card-body">
+                    <h4>Co-Founder &amp; Managing Director</h4>
+                    <p class="exp-org">Decilion</p>
+                    <p class="exp-dates">Dec 2023&ndash;Present</p>
+                    <p class="exp-desc">Global health consultancy specializing in comparative health systems research and digital communication for international health organizations, academic centers, and academic journals.</p>
                 </div>
-                <div class="experience-item">
+            </div>
+            <div class="exp-card">
+                <img src="https://www.google.com/s2/favicons?domain=iadb.org&sz=128" alt="IDB" class="exp-logo">
+                <div class="exp-card-body">
                     <h4>External Consultant (PEC)</h4>
-                    <p class="org">Inter-American Development Bank (Dec 2025&ndash;Present)</p>
-                    <p>Health, Nutrition, and Population Division. Evaluating policies and market dynamics for generic and biosimilar medicines; estimating potential savings from more efficient public pharmaceutical procurement in the region.</p>
+                    <p class="exp-org">Inter-American Development Bank</p>
+                    <p class="exp-dates">Dec 2025&ndash;Present</p>
+                    <p class="exp-desc">Health, Nutrition, and Population Division. Evaluating policies and market dynamics for generic and biosimilar medicines; estimating potential savings from more efficient public pharmaceutical procurement.</p>
                 </div>
-                <div class="experience-item">
+            </div>
+            <div class="exp-card">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Harvard_University_coat_of_arms.svg/64px-Harvard_University_coat_of_arms.svg.png" alt="Harvard" class="exp-logo">
+                <div class="exp-card-body">
                     <h4>Department Associate</h4>
-                    <p class="org">Harvard T.H. Chan School of Public Health (Dec 2024&ndash;Present)</p>
-                    <p>Department of Global Health and Population, Takemi Program in International Health</p>
+                    <p class="exp-org">Harvard T.H. Chan School of Public Health</p>
+                    <p class="exp-dates">Dec 2024&ndash;Present</p>
+                    <p class="exp-desc">Department of Global Health and Population, Takemi Program in International Health.</p>
                 </div>
-                <div class="experience-item">
+            </div>
+            <div class="exp-card">
+                <img src="https://www.google.com/s2/favicons?domain=expertisefrance.fr&sz=128" alt="Expertise France" class="exp-logo">
+                <div class="exp-card-body">
                     <h4>Independent Consultant</h4>
-                    <p class="org">Expertise France (Aug 2025&ndash;Present)</p>
-                    <p>Comparative analysis of regulatory agencies in Europe and Latin America for INVIMA; analytical report on the LAC pharmaceutical market.</p>
+                    <p class="exp-org">Expertise France</p>
+                    <p class="exp-dates">Aug 2025&ndash;Present</p>
+                    <p class="exp-desc">Comparative analysis of regulatory agencies in Europe and Latin America for INVIMA; analytical report on the LAC pharmaceutical market.</p>
                 </div>
-                <div class="experience-item">
+            </div>
+            <div class="exp-card">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Logotipo_de_la_Universidad_de_los_Andes_%28Colombia%29.svg/64px-Logotipo_de_la_Universidad_de_los_Andes_%28Colombia%29.svg.png" alt="Uniandes" class="exp-logo">
+                <div class="exp-card-body">
                     <h4>Lecturer</h4>
-                    <p class="org">Universidad de los Andes & Universidad del Rosario</p>
-                    <p>School of Law and School of Medicine and Health Sciences, Bogota, Colombia</p>
+                    <p class="exp-org">Universidad de los Andes &amp; Universidad del Rosario</p>
+                    <p class="exp-dates">2020&ndash;Present</p>
+                    <p class="exp-desc">School of Law and School of Medicine and Health Sciences, Bogot&aacute;, Colombia.</p>
                 </div>
             </div>
-            <div class="experience-category">
-                <h3>Consulting & Research</h3>
-                <div class="experience-item">
-                    <p><strong>ECLAC</strong> &mdash; Landscape analysis on the Colombian local pharmaceutical manufacturing sector (2024)</p>
+        </div>
+
+        <h3 class="exp-heading">Previous Positions &amp; Consulting</h3>
+        <div class="exp-two-col">
+            <div>
+                <div class="exp-item">
+                    <img src="https://www.google.com/s2/favicons?domain=cepal.org&sz=128" alt="ECLAC" class="exp-logo-sm">
+                    <div>
+                        <h4>Consultant</h4>
+                        <p class="exp-org">Economic Commission for Latin America and the Caribbean (ECLAC)</p>
+                        <p class="exp-desc">Landscape analysis on the Colombian local pharmaceutical manufacturing sector (2024)</p>
+                    </div>
                 </div>
-                <div class="experience-item">
-                    <p><strong>Pan American Health Organization (PAHO)</strong> &mdash; Access to Essential Medicines and Medical Devices in LAC (2023)</p>
+                <div class="exp-item">
+                    <img src="https://www.google.com/s2/favicons?domain=paho.org&sz=128" alt="PAHO" class="exp-logo-sm">
+                    <div>
+                        <h4>Consultant</h4>
+                        <p class="exp-org">Pan American Health Organization (PAHO)</p>
+                        <p class="exp-desc">Access to Essential Medicines and Medical Devices in Latin America and the Caribbean (2023)</p>
+                    </div>
                 </div>
-                <div class="experience-item">
-                    <p><strong>ACCESS Health International</strong> &mdash; Fintech and Health in Colombia (2023)</p>
+                <div class="exp-item">
+                    <img src="https://www.google.com/s2/favicons?domain=accessh.org&sz=128" alt="ACCESS Health" class="exp-logo-sm">
+                    <div>
+                        <h4>Consultant</h4>
+                        <p class="exp-org">ACCESS Health International</p>
+                        <p class="exp-desc">Fintech and Health in Colombia (2023)</p>
+                    </div>
                 </div>
-                <div class="experience-item">
-                    <p><strong>U4 Anti-Corruption Resource Centre</strong> &mdash; Falsified medicines in Colombia (2022)</p>
+                <div class="exp-item">
+                    <img src="https://www.google.com/s2/favicons?domain=u4.no&sz=128" alt="U4" class="exp-logo-sm">
+                    <div>
+                        <h4>Consultant</h4>
+                        <p class="exp-org">U4 Anti-Corruption Resource Centre</p>
+                        <p class="exp-desc">Falsified medicines in Colombia (2022)</p>
+                    </div>
                 </div>
-                <div class="experience-item">
-                    <p><strong>Oxfam International</strong> &mdash; COVID-19 vaccine distribution in Latin America (2021)</p>
+                <div class="exp-item">
+                    <img src="https://www.google.com/s2/favicons?domain=oxfam.org&sz=128" alt="Oxfam" class="exp-logo-sm">
+                    <div>
+                        <h4>Consultant</h4>
+                        <p class="exp-org">Oxfam International</p>
+                        <p class="exp-desc">COVID-19 vaccine distribution in Latin America (2021)</p>
+                    </div>
                 </div>
             </div>
-            <div class="experience-category">
-                <h3>Previous Positions</h3>
-                <div class="experience-item">
-                    <h4>Visiting Scientist</h4>
-                    <p class="org">Harvard T.H. Chan School of Public Health (2020&ndash;2024)</p>
-                    <p>Communication strategy for the Takemi Program and Health Systems & Reform Journal</p>
+            <div>
+                <div class="exp-item">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Harvard_University_coat_of_arms.svg/64px-Harvard_University_coat_of_arms.svg.png" alt="Harvard" class="exp-logo-sm">
+                    <div>
+                        <h4>Visiting Scientist &amp; Senior Associate</h4>
+                        <p class="exp-org">Harvard T.H. Chan School of Public Health</p>
+                        <p class="exp-desc">Communication strategy for the Takemi Program and Health Systems &amp; Reform Journal; Health Systems Innovation Lab (2020&ndash;2024)</p>
+                    </div>
                 </div>
-                <div class="experience-item">
-                    <h4>Senior Associate</h4>
-                    <p class="org">Harvard Health Systems Innovation Lab (2022&ndash;2023)</p>
+                <div class="exp-item">
+                    <img src="https://www.google.com/s2/favicons?domain=dejusticia.org&sz=128" alt="Dejusticia" class="exp-logo-sm">
+                    <div>
+                        <h4>Lead Researcher</h4>
+                        <p class="exp-org">Center for the Study of Law, Justice and Society (Dejusticia)</p>
+                        <p class="exp-desc">Road safety, sugar-sweetened beverage tax, food labeling, and COVID-19 policy (2019&ndash;2021)</p>
+                    </div>
                 </div>
-                <div class="experience-item">
-                    <h4>Lead Researcher</h4>
-                    <p class="org">Dejusticia (2019&ndash;2021)</p>
-                    <p>Road safety, sugar-sweetened beverage tax, food labeling, and COVID-19 policy</p>
+                <div class="exp-item">
+                    <img src="https://www.google.com/s2/favicons?domain=minsalud.gov.co&sz=128" alt="MinSalud" class="exp-logo-sm">
+                    <div>
+                        <h4>Policy Consultant</h4>
+                        <p class="exp-org">Colombian Ministry of Health and Social Protection</p>
+                        <p class="exp-desc">Legal advisor to the Director of Medicines and Health Technologies; drug access, price regulation, and compulsory license procedures (2014&ndash;2015)</p>
+                    </div>
                 </div>
-                <div class="experience-item">
-                    <h4>Policy Consultant</h4>
-                    <p class="org">Colombian Ministry of Health and Social Protection (2014&ndash;2015)</p>
-                    <p>Drug access, price regulation, and compulsory license procedures</p>
+                <div class="exp-item">
+                    <img src="https://www.google.com/s2/favicons?domain=cgdev.org&sz=128" alt="CGD" class="exp-logo-sm">
+                    <div>
+                        <h4>Global Health Intern</h4>
+                        <p class="exp-org">Center for Global Development</p>
+                        <p class="exp-desc">Washington, D.C. (2018)</p>
+                    </div>
                 </div>
-                <div class="experience-item">
-                    <h4>Co-Founder and Coordinator</h4>
-                    <p class="org">Environment and Public Health Law Clinic, Universidad de los Andes (2016&ndash;2017)</p>
-                </div>
-            </div>
-            <div class="experience-category">
-                <h3>Internships & Early Career</h3>
-                <div class="experience-item">
-                    <p><strong>Center for Global Development</strong> &mdash; Global Health Intern, Washington, D.C. (2018)</p>
-                </div>
-                <div class="experience-item">
-                    <p><strong>WHO Centre for Health Development</strong> &mdash; Graduate Intern, Kobe, Japan (2018)</p>
-                </div>
-                <div class="experience-item">
-                    <p><strong>Constitutional Court of Colombia</strong> &mdash; Ad Honorem Assistant (2011)</p>
+                <div class="exp-item">
+                    <img src="https://www.google.com/s2/favicons?domain=who.int&sz=128" alt="WHO" class="exp-logo-sm">
+                    <div>
+                        <h4>Graduate Intern</h4>
+                        <p class="exp-org">WHO Centre for Health Development</p>
+                        <p class="exp-desc">Kobe, Japan (2018)</p>
+                    </div>
                 </div>
             </div>
         </div>
@@ -277,105 +343,35 @@ description: Global Health Consultant | Director @Decilion | Harvard MPH | Oxfor
 
 <section id="honors" class="section">
     <div class="container">
-        <h2 class="section-title">Honors & Awards</h2>
-        <div class="publications-list">
-            <article class="publication">
-                <h3>Fondo Colombia-Harvard Fellowship</h3>
-                <p class="journal">Harvard University, Committee on General Scholarships (2017&ndash;2018 & Fall 2018)</p>
-            </article>
-            <article class="publication">
-                <h3>Mike M. & Evelyn B. Donatelli Fellowship</h3>
-                <p class="journal">Harvard T.H. Chan School of Public Health (2017&ndash;2018 & Fall 2018)</p>
-            </article>
-            <article class="publication">
-                <h3>Pasaporte a la Ciencia Scholarship</h3>
-                <p class="journal">Colombia Cient&iacute;fica, COLCIENCIAS (2017&ndash;2018 & Fall 2018)</p>
-            </article>
-            <article class="publication">
-                <h3>Alira Health & SDA Bocconi Healthcare Case Competition</h3>
-                <p class="journal">Sa&iuml;d Business School, University of Oxford &mdash; 3rd place (2022)</p>
-            </article>
-            <article class="publication">
-                <h3>Emory Morningside Global Health Case Competition</h3>
-                <p class="journal">Coach, Universidad de los Andes Team: 5th place/59 (2022), 9th place/60 (2021); Participant (2012); Tutor (2016)</p>
-            </article>
-        </div>
-    </div>
-</section>
-
-<section id="certifications" class="section section-alt">
-    <div class="container">
-        <h2 class="section-title">Certifications</h2>
-        <div class="publications-list">
-            <article class="publication">
-                <h3>Business and Human Rights</h3>
-                <p class="journal">Dejusticia, Diakonia and the Heinrich B&ouml;ll Foundation (2019)</p>
-                <p class="description">New responses to ensure human rights are guaranteed in corporate activities</p>
-            </article>
-            <article class="publication">
-                <h3>LSE Health: Models, Regulation and Evaluation</h3>
-                <p class="journal">The London School of Economics and Political Science (2015)</p>
-            </article>
-            <article class="publication">
-                <h3>Acceso a Medicamentos y Propiedad Intelectual</h3>
-                <p class="journal">Universidad de Buenos Aires School of Law, Ministry of Health Argentina, The South Centre, UNDP (2015)</p>
-            </article>
-            <article class="publication">
-                <h3>Intensive Course on Social, Economical and Cultural Rights</h3>
-                <p class="description">Latin America in a Global Context</p>
-            </article>
-        </div>
-    </div>
-</section>
-
-<section id="languages" class="section">
-    <div class="container">
-        <h2 class="section-title">Languages</h2>
-        <div class="research-grid">
-            <div class="research-card">
-                <h3>Spanish</h3>
-                <p>Native or Bilingual</p>
+        <h2 class="section-title">Honors, Certifications &amp; Languages</h2>
+        <div class="info-grid">
+            <div class="info-column">
+                <h3>Honors &amp; Awards</h3>
+                <ul class="info-list">
+                    <li>Fondo Colombia-Harvard Fellowship<span class="info-detail">Harvard University, Committee on General Scholarships (2017&ndash;2018)</span></li>
+                    <li>Mike M. &amp; Evelyn B. Donatelli Fellowship<span class="info-detail">Harvard T.H. Chan School of Public Health (2017&ndash;2018)</span></li>
+                    <li>Pasaporte a la Ciencia Scholarship<span class="info-detail">Colombia Cient&iacute;fica, COLCIENCIAS (2017&ndash;2018)</span></li>
+                    <li>Alira Health &amp; SDA Bocconi Healthcare Case Competition<span class="info-detail">Sa&iuml;d Business School, University of Oxford &mdash; 3rd place (2022)</span></li>
+                    <li>Emory Morningside Global Health Case Competition<span class="info-detail">Coach, Universidad de los Andes: 5th/59 (2022), 9th/60 (2021)</span></li>
+                </ul>
             </div>
-            <div class="research-card">
-                <h3>English</h3>
-                <p>Native or Bilingual</p>
+            <div class="info-column">
+                <h3>Certifications</h3>
+                <ul class="info-list">
+                    <li>Business and Human Rights<span class="info-detail">Dejusticia, Diakonia &amp; Heinrich B&ouml;ll Foundation (2019)</span></li>
+                    <li>LSE Health: Models, Regulation and Evaluation<span class="info-detail">London School of Economics and Political Science (2015)</span></li>
+                    <li>Acceso a Medicamentos y Propiedad Intelectual<span class="info-detail">Universidad de Buenos Aires, Ministry of Health Argentina, UNDP (2015)</span></li>
+                    <li>Intensive Course on Social, Economical and Cultural Rights<span class="info-detail">Latin America in a Global Context</span></li>
+                </ul>
             </div>
-            <div class="research-card">
-                <h3>Portuguese</h3>
-            </div>
-            <div class="research-card">
-                <h3>French</h3>
-                <p>Elementary</p>
-            </div>
-            <div class="research-card">
-                <h3>Japanese</h3>
-                <p>Elementary</p>
-            </div>
-        </div>
-    </div>
-</section>
-
-<section id="contact" class="section section-alt">
-    <div class="container">
-        <h2 class="section-title">Contact</h2>
-        <div class="contact-content">
-            <div class="contact-info">
-                <div class="contact-item">
-                    <h3>Academic Affiliation</h3>
-                    <p>Harvard T.H. Chan School of Public Health<br>
-                    Department of Global Health and Population<br>
-                    Takemi Program in International Health</p>
-                </div>
-                <div class="contact-item">
-                    <h3>Email</h3>
-                    <p><a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></p>
-                </div>
-                <div class="contact-links">
-                    <a href="https://decilion.com/" target="_blank" rel="noopener">Decilion</a>
-                    <a href="https://hsph.harvard.edu/profile/johnattan-garcia-ruiz/" target="_blank" rel="noopener">Harvard Profile</a>
-                    <a href="https://scholar.google.com/citations?user={{ site.author.google_scholar }}" target="_blank" rel="noopener">Google Scholar</a>
-                    <a href="https://www.linkedin.com/in/{{ site.author.linkedin }}" target="_blank" rel="noopener">LinkedIn</a>
-                    <a href="https://twitter.com/{{ site.author.twitter }}" target="_blank" rel="noopener">Twitter</a>
+            <div class="info-column">
+                <h3>Languages</h3>
+                <div class="lang-pills">
+                    <span class="lang-pill">Spanish<span class="pill-level">Native</span></span>
+                    <span class="lang-pill">English<span class="pill-level">Bilingual</span></span>
+                    <span class="lang-pill">Portuguese</span>
+                    <span class="lang-pill">French<span class="pill-level">Elementary</span></span>
+                    <span class="lang-pill">Japanese<span class="pill-level">Elementary</span></span>
                 </div>
             </div>
         </div>

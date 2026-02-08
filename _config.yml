@@ -81,11 +81,7 @@ navigation:
     url: /publications.html
   - title: Visualizations
     url: /visualizations.html
-  - title: Insights
-    url: /blog/
   - title: Experience
     url: /#experience
   - title: Teaching
     url: /#teaching
-  - title: Contact
-    url: /#contact
