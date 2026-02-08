@@ -1,17 +1,18 @@
 # Site settings
 title: Johnattan Garcia Ruiz
 description: >-
-  Global Health Researcher, Health Policy Expert, affiliated with Harvard T.H. Chan
-  School of Public Health. Specializing in pharmaceutical policy, health systems,
-  and access to medicines in Latin America.
+  Global Health Consultant | Director @Decilion | Harvard MPH | Oxford MBA.
+  Specializing in pharmaceutical policy, health systems, digital communication,
+  and access to medicines in Latin America and the Caribbean.
 
 author:
   name: Johnattan Garcia Ruiz
   credentials: MPH, MBA, LL.B.
-  email: # Add email if you want to display it
+  email: j.garcia@decilion.com
   twitter: GarciaRuizJo
   linkedin: johnattangarcia
   google_scholar: 7JZVw_YAAAAJ
+  website: https://decilion.com/
 
 # Build settings
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -84,5 +85,7 @@ navigation:
     url: /blog/
   - title: Experience
     url: /#experience
+  - title: Teaching
+    url: /#teaching
   - title: Contact
     url: /#contact
