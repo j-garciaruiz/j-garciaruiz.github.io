@@ -1,0 +1,1143 @@
+Configuration file: /app/_config.yml
+            Source: /app
+       Destination: /app/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating...
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    done in 0.154 seconds.
+ Auto-regeneration: enabled for '/app'
+    Server address: http://127.0.0.1:4000/
+  Server running... press ctrl-c to stop.
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:03
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.138708332 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:04
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.046221385 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:04
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.047126493 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:04
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.041880699 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:04
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.043021167 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:04
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.044210417 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:04
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.040580412 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:04
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.041518206 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:05
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.041254133 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:05
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.041208675 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:05
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.04304298 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:05
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.059673247 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:05
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.054869806 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:05
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.044783995 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:06
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.043474267 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:06
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.046016111 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:06
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.041545966 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:06
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.041985723 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:06
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.041436759 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:06
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.042282067 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:06
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.041549022 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:07
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.042570804 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:07
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.042346699 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:07
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.044260964 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:07
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.04219749 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:07
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.040815974 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:07
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.042175331 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:07
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.04035128 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:08
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.044335131 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:08
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.041783985 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:08
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.041675065 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:08
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.04417685 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:08
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.043742958 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:08
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.070928971 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:08
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.044840646 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:09
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.044455422 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:09
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.044977036 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:09
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.041663606 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:09
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.044033394 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:09
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.042318821 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:09
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.041802629 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:09
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.042814262 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:10
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.045173784 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:10
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.044346435 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:10
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.042737197 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:10
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.045109679 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:10
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.040668349 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:10
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.043387172 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:10
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.044570846 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:11
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.04559331 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:11
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.0445921 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:11
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.043128143 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:11
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.042774591 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:11
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.045316492 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:11
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.044681304 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:11
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.042908918 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:12
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.049574774 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:12
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.045017227 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:12
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.042697347 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:12
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.047407268 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:12
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.044020815 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:12
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.071388072 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:13
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.043929693 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:13
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.04155795 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:13
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.042570791 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:13
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.04376222 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:13
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.043426401 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:13
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.041437589 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:13
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.042625907 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:14
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.042013679 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:14
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.040987444 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:14
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.041783158 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:14
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.042377481 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:14
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.042940151 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:14
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.043518684 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:14
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.041099862 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:15
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.046555259 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:15
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.05035848 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:15
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.042646326 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:15
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.043314804 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:15
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.041940394 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:15
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.04257036 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:15
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.043791325 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:16
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.046032769 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:16
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.071024285 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:16
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.044414516 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:16
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.044572038 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:16
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.044790231 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:16
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.043355881 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:16
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.045296223 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:17
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.045038634 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:17
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.043169674 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:17
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.043561982 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:17
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.043922429 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:17
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.044087066 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:17
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.044954451 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:17
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.045184636 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:18
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.04905339 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:18
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.043980839 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:18
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.045107318 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:18
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.044619508 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:18
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.073421599 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:18
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.042662351 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:18
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.043797862 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:19
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.042473537 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:19
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.043778477 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:19
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.044065266 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:19
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.044195214 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:19
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.04365782 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:19
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.043149735 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:20
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.043067314 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:20
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.044694666 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:20
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.044349238 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:20
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.044778496 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:20
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.046093867 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:20
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.044688961 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:20
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.073447448 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:21
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.045258846 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:21
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.044268628 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:21
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.042698134 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:21
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.044012695 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:21
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.044022887 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:21
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.044424694 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:21
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.042623534 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:22
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.045515896 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:22
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.043754346 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:22
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.043223669 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:22
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.045012907 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:22
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.044184112 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:22
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.072790729 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:22
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.042867539 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:23
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.046784625 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:23
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.043875748 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:23
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.044338257 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:23
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.043570455 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:23
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.044799041 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:23
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.044197924 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:23
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.042285415 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:24
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.046820121 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:24
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.044365816 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:24
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.075944945 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:24
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.04446168 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:24
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.046903655 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:24
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.043604426 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:25
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.046596954 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:25
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.045553529 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:25
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.047450813 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:25
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.045048169 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:25
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.046817808 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:25
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.124630014 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:26
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.091890065 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:26
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.067652091 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:26
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.075591615 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:26
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.069003546 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:26
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.074009097 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:26
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.074053928 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:27
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.090015034 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:27
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.07320166 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:27
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.078525354 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:27
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.098479193 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:27
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.089305443 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:28
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.082312292 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:28
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.072801509 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:28
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.076515688 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:28
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.129608452 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:28
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.079170272 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:28
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.0490124 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:29
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.076629131 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:29
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.067089497 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:29
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.115939461 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:29
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.075878338 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:29
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.090910959 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:30
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.065307196 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:30
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.073579635 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:30
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.073608583 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:30
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.087370742 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:30
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.085804291 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:30
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.101801384 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:31
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.094001525 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:31
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.085374147 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:31
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.098564989 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:31
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.08752901 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:31
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.083009929 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:32
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.104681124 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:32
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+                    ...done in 0.078894777 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-02-14 08:50:32
+                    jekyll.log
+[31m                    ------------------------------------------------[0m
+[31m      Jekyll 4.3.4   Please append `--trace` to the `serve` command [0m
+[31m                     for any additional information or backtrace. [0m
+[31m                    ------------------------------------------------[0m
+/app/vendor/bundle/ruby/3.2.0/gems/jekyll-4.3.4/lib/jekyll/commands/serve.rb:286:in `join': SIGTERM (SignalException)
+	from /app/vendor/bundle/ruby/3.2.0/gems/jekyll-4.3.4/lib/jekyll/commands/serve.rb:286:in `boot_or_detach'
+	from /app/vendor/bundle/ruby/3.2.0/gems/jekyll-4.3.4/lib/jekyll/commands/serve.rb:223:in `start_up_webrick'
+	from /app/vendor/bundle/ruby/3.2.0/gems/jekyll-4.3.4/lib/jekyll/commands/serve.rb:102:in `process'
+	from /app/vendor/bundle/ruby/3.2.0/gems/jekyll-4.3.4/lib/jekyll/command.rb:91:in `block in process_with_graceful_fail'
+	from /app/vendor/bundle/ruby/3.2.0/gems/jekyll-4.3.4/lib/jekyll/command.rb:91:in `each'
+	from /app/vendor/bundle/ruby/3.2.0/gems/jekyll-4.3.4/lib/jekyll/command.rb:91:in `process_with_graceful_fail'
+	from /app/vendor/bundle/ruby/3.2.0/gems/jekyll-4.3.4/lib/jekyll/commands/serve.rb:86:in `block (2 levels) in init_with_program'
+	from /app/vendor/bundle/ruby/3.2.0/gems/mercenary-0.4.0/lib/mercenary/command.rb:221:in `block in execute'
+	from /app/vendor/bundle/ruby/3.2.0/gems/mercenary-0.4.0/lib/mercenary/command.rb:221:in `each'
+	from /app/vendor/bundle/ruby/3.2.0/gems/mercenary-0.4.0/lib/mercenary/command.rb:221:in `execute'
+	from /app/vendor/bundle/ruby/3.2.0/gems/mercenary-0.4.0/lib/mercenary/program.rb:44:in `go'
+	from /app/vendor/bundle/ruby/3.2.0/gems/mercenary-0.4.0/lib/mercenary.rb:21:in `program'
+	from /app/vendor/bundle/ruby/3.2.0/gems/jekyll-4.3.4/exe/jekyll:15:in `<top (required)>'
+	from /app/vendor/bundle/ruby/3.2.0/bin/jekyll:25:in `load'
+	from /app/vendor/bundle/ruby/3.2.0/bin/jekyll:25:in `<main>'
