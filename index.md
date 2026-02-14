@@ -62,7 +62,7 @@ description: Global Health Consultant | Director @Decilion | Harvard MPH | Oxfor
                 <div class="timeline-marker"></div>
                 <div class="timeline-content">
                     <div class="timeline-item-content">
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Oxford-University-Circlet.svg/64px-Oxford-University-Circlet.svg.png" alt="Oxford" class="timeline-logo">
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Oxford-University-Circlet.svg/64px-Oxford-University-Circlet.svg.png" alt="Oxford" class="timeline-logo" width="40" height="40" loading="lazy">
                         <div>
                             <h3>Master of Business Administration (MBA)</h3>
                             <p class="institution">University of Oxford &mdash; Sa&iuml;d Business School, 2021&ndash;2022</p>
@@ -75,7 +75,7 @@ description: Global Health Consultant | Director @Decilion | Harvard MPH | Oxfor
                 <div class="timeline-marker"></div>
                 <div class="timeline-content">
                     <div class="timeline-item-content">
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Harvard_University_coat_of_arms.svg/64px-Harvard_University_coat_of_arms.svg.png" alt="Harvard" class="timeline-logo">
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Harvard_University_coat_of_arms.svg/64px-Harvard_University_coat_of_arms.svg.png" alt="Harvard" class="timeline-logo" width="40" height="40" loading="lazy">
                         <div>
                             <h3>Master of Public Health (MPH)</h3>
                             <p class="institution">Harvard University &mdash; T.H. Chan School of Public Health, 2017&ndash;2019</p>
@@ -88,7 +88,7 @@ description: Global Health Consultant | Director @Decilion | Harvard MPH | Oxfor
                 <div class="timeline-marker"></div>
                 <div class="timeline-content">
                     <div class="timeline-item-content">
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Logotipo_de_la_Universidad_de_los_Andes_%28Colombia%29.svg/64px-Logotipo_de_la_Universidad_de_los_Andes_%28Colombia%29.svg.png" alt="Uniandes" class="timeline-logo">
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Logotipo_de_la_Universidad_de_los_Andes_%28Colombia%29.svg/64px-Logotipo_de_la_Universidad_de_los_Andes_%28Colombia%29.svg.png" alt="Uniandes" class="timeline-logo" width="40" height="40" loading="lazy">
                         <div>
                             <h3>Lawyer &mdash; LL.B. (U.S. J.D. equivalent)</h3>
                             <p class="institution">Universidad de los Andes &mdash; School of Law, 2009&ndash;2014</p>
@@ -167,7 +167,7 @@ description: Global Health Consultant | Director @Decilion | Harvard MPH | Oxfor
         <h3 class="exp-heading">Current Positions</h3>
         <div class="exp-current-grid">
             <div class="exp-card">
-                <img src="https://www.google.com/s2/favicons?domain=decilion.com&sz=128" alt="Decilion" class="exp-logo">
+                <img src="https://www.google.com/s2/favicons?domain=decilion.com&sz=128" alt="Decilion" class="exp-logo" width="36" height="36" loading="lazy">
                 <div class="exp-card-body">
                     <h4>Co-Founder &amp; Managing Director</h4>
                     <p class="exp-org">Decilion</p>
@@ -176,7 +176,7 @@ description: Global Health Consultant | Director @Decilion | Harvard MPH | Oxfor
                 </div>
             </div>
             <div class="exp-card">
-                <img src="https://www.google.com/s2/favicons?domain=iadb.org&sz=128" alt="IDB" class="exp-logo">
+                <img src="https://www.google.com/s2/favicons?domain=iadb.org&sz=128" alt="IDB" class="exp-logo" width="36" height="36" loading="lazy">
                 <div class="exp-card-body">
                     <h4>External Consultant (PEC)</h4>
                     <p class="exp-org">Inter-American Development Bank</p>
@@ -185,7 +185,7 @@ description: Global Health Consultant | Director @Decilion | Harvard MPH | Oxfor
                 </div>
             </div>
             <div class="exp-card">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Harvard_University_coat_of_arms.svg/64px-Harvard_University_coat_of_arms.svg.png" alt="Harvard" class="exp-logo">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Harvard_University_coat_of_arms.svg/64px-Harvard_University_coat_of_arms.svg.png" alt="Harvard" class="exp-logo" width="36" height="36" loading="lazy">
                 <div class="exp-card-body">
                     <h4>Department Associate</h4>
                     <p class="exp-org">Harvard T.H. Chan School of Public Health</p>
@@ -194,7 +194,7 @@ description: Global Health Consultant | Director @Decilion | Harvard MPH | Oxfor
                 </div>
             </div>
             <div class="exp-card">
-                <img src="https://www.google.com/s2/favicons?domain=expertisefrance.fr&sz=128" alt="Expertise France" class="exp-logo">
+                <img src="https://www.google.com/s2/favicons?domain=expertisefrance.fr&sz=128" alt="Expertise France" class="exp-logo" width="36" height="36" loading="lazy">
                 <div class="exp-card-body">
                     <h4>Independent Consultant</h4>
                     <p class="exp-org">Expertise France</p>
@@ -203,7 +203,7 @@ description: Global Health Consultant | Director @Decilion | Harvard MPH | Oxfor
                 </div>
             </div>
             <div class="exp-card">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Logotipo_de_la_Universidad_de_los_Andes_%28Colombia%29.svg/64px-Logotipo_de_la_Universidad_de_los_Andes_%28Colombia%29.svg.png" alt="Uniandes" class="exp-logo">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Logotipo_de_la_Universidad_de_los_Andes_%28Colombia%29.svg/64px-Logotipo_de_la_Universidad_de_los_Andes_%28Colombia%29.svg.png" alt="Uniandes" class="exp-logo" width="36" height="36" loading="lazy">
                 <div class="exp-card-body">
                     <h4>Lecturer</h4>
                     <p class="exp-org">Universidad de los Andes &amp; Universidad del Rosario</p>
@@ -217,7 +217,7 @@ description: Global Health Consultant | Director @Decilion | Harvard MPH | Oxfor
         <div class="exp-two-col">
             <div>
                 <div class="exp-item">
-                    <img src="https://www.google.com/s2/favicons?domain=cepal.org&sz=128" alt="ECLAC" class="exp-logo-sm">
+                    <img src="https://www.google.com/s2/favicons?domain=cepal.org&sz=128" alt="ECLAC" class="exp-logo-sm" width="28" height="28" loading="lazy">
                     <div>
                         <h4>Consultant</h4>
                         <p class="exp-org">Economic Commission for Latin America and the Caribbean (ECLAC)</p>
@@ -225,7 +225,7 @@ description: Global Health Consultant | Director @Decilion | Harvard MPH | Oxfor
                     </div>
                 </div>
                 <div class="exp-item">
-                    <img src="https://www.google.com/s2/favicons?domain=paho.org&sz=128" alt="PAHO" class="exp-logo-sm">
+                    <img src="https://www.google.com/s2/favicons?domain=paho.org&sz=128" alt="PAHO" class="exp-logo-sm" width="28" height="28" loading="lazy">
                     <div>
                         <h4>Consultant</h4>
                         <p class="exp-org">Pan American Health Organization (PAHO)</p>
@@ -233,7 +233,7 @@ description: Global Health Consultant | Director @Decilion | Harvard MPH | Oxfor
                     </div>
                 </div>
                 <div class="exp-item">
-                    <img src="https://www.google.com/s2/favicons?domain=accessh.org&sz=128" alt="ACCESS Health" class="exp-logo-sm">
+                    <img src="https://www.google.com/s2/favicons?domain=accessh.org&sz=128" alt="ACCESS Health" class="exp-logo-sm" width="28" height="28" loading="lazy">
                     <div>
                         <h4>Consultant</h4>
                         <p class="exp-org">ACCESS Health International</p>
@@ -241,7 +241,7 @@ description: Global Health Consultant | Director @Decilion | Harvard MPH | Oxfor
                     </div>
                 </div>
                 <div class="exp-item">
-                    <img src="https://www.google.com/s2/favicons?domain=u4.no&sz=128" alt="U4" class="exp-logo-sm">
+                    <img src="https://www.google.com/s2/favicons?domain=u4.no&sz=128" alt="U4" class="exp-logo-sm" width="28" height="28" loading="lazy">
                     <div>
                         <h4>Consultant</h4>
                         <p class="exp-org">U4 Anti-Corruption Resource Centre</p>
@@ -249,7 +249,7 @@ description: Global Health Consultant | Director @Decilion | Harvard MPH | Oxfor
                     </div>
                 </div>
                 <div class="exp-item">
-                    <img src="https://www.google.com/s2/favicons?domain=oxfam.org&sz=128" alt="Oxfam" class="exp-logo-sm">
+                    <img src="https://www.google.com/s2/favicons?domain=oxfam.org&sz=128" alt="Oxfam" class="exp-logo-sm" width="28" height="28" loading="lazy">
                     <div>
                         <h4>Consultant</h4>
                         <p class="exp-org">Oxfam International</p>
@@ -259,7 +259,7 @@ description: Global Health Consultant | Director @Decilion | Harvard MPH | Oxfor
             </div>
             <div>
                 <div class="exp-item">
-                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Harvard_University_coat_of_arms.svg/64px-Harvard_University_coat_of_arms.svg.png" alt="Harvard" class="exp-logo-sm">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Harvard_University_coat_of_arms.svg/64px-Harvard_University_coat_of_arms.svg.png" alt="Harvard" class="exp-logo-sm" width="28" height="28" loading="lazy">
                     <div>
                         <h4>Visiting Scientist &amp; Senior Associate</h4>
                         <p class="exp-org">Harvard T.H. Chan School of Public Health</p>
@@ -267,7 +267,7 @@ description: Global Health Consultant | Director @Decilion | Harvard MPH | Oxfor
                     </div>
                 </div>
                 <div class="exp-item">
-                    <img src="https://www.google.com/s2/favicons?domain=dejusticia.org&sz=128" alt="Dejusticia" class="exp-logo-sm">
+                    <img src="https://www.google.com/s2/favicons?domain=dejusticia.org&sz=128" alt="Dejusticia" class="exp-logo-sm" width="28" height="28" loading="lazy">
                     <div>
                         <h4>Lead Researcher</h4>
                         <p class="exp-org">Center for the Study of Law, Justice and Society (Dejusticia)</p>
@@ -275,7 +275,7 @@ description: Global Health Consultant | Director @Decilion | Harvard MPH | Oxfor
                     </div>
                 </div>
                 <div class="exp-item">
-                    <img src="https://www.google.com/s2/favicons?domain=minsalud.gov.co&sz=128" alt="MinSalud" class="exp-logo-sm">
+                    <img src="https://www.google.com/s2/favicons?domain=minsalud.gov.co&sz=128" alt="MinSalud" class="exp-logo-sm" width="28" height="28" loading="lazy">
                     <div>
                         <h4>Policy Consultant</h4>
                         <p class="exp-org">Colombian Ministry of Health and Social Protection</p>
@@ -283,7 +283,7 @@ description: Global Health Consultant | Director @Decilion | Harvard MPH | Oxfor
                     </div>
                 </div>
                 <div class="exp-item">
-                    <img src="https://www.google.com/s2/favicons?domain=cgdev.org&sz=128" alt="CGD" class="exp-logo-sm">
+                    <img src="https://www.google.com/s2/favicons?domain=cgdev.org&sz=128" alt="CGD" class="exp-logo-sm" width="28" height="28" loading="lazy">
                     <div>
                         <h4>Global Health Intern</h4>
                         <p class="exp-org">Center for Global Development</p>
@@ -291,7 +291,7 @@ description: Global Health Consultant | Director @Decilion | Harvard MPH | Oxfor
                     </div>
                 </div>
                 <div class="exp-item">
-                    <img src="https://www.google.com/s2/favicons?domain=who.int&sz=128" alt="WHO" class="exp-logo-sm">
+                    <img src="https://www.google.com/s2/favicons?domain=who.int&sz=128" alt="WHO" class="exp-logo-sm" width="28" height="28" loading="lazy">
                     <div>
                         <h4>Graduate Intern</h4>
                         <p class="exp-org">WHO Centre for Health Development</p>

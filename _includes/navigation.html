@@ -1,7 +1,7 @@
-<nav class="navbar">
+<nav class="navbar" aria-label="Primary navigation">
     <div class="nav-container">
-        <a href="{{ '/' | relative_url }}" class="nav-logo">JGR</a>
-        <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="primary-navigation">
+        <a href="{{ '/' | relative_url }}" class="nav-logo" aria-label="Home">JGR</a>
+        <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="primary-navigation" aria-label="Toggle navigation menu">
             <span class="sr-only">Toggle navigation</span>
             <span class="nav-toggle-bar"></span>
             <span class="nav-toggle-bar"></span>
@@ -23,10 +23,28 @@
             return;
         }
 
+        const closeMenu = () => {
+            toggle.setAttribute('aria-expanded', 'false');
+            menu.classList.remove('is-open');
+        };
+
         toggle.addEventListener('click', () => {
             const isExpanded = toggle.getAttribute('aria-expanded') === 'true';
             toggle.setAttribute('aria-expanded', String(!isExpanded));
             menu.classList.toggle('is-open');
+        });
+
+        // Close menu when clicking a link
+        menu.querySelectorAll('a').forEach(link => {
+            link.addEventListener('click', closeMenu);
+        });
+
+        // Close menu when clicking outside
+        document.addEventListener('click', (event) => {
+            const isClickInside = toggle.contains(event.target) || menu.contains(event.target);
+            if (!isClickInside && menu.classList.contains('is-open')) {
+                closeMenu();
+            }
         });
 
         // Highlight active section on homepage scroll
