@@ -1,0 +1,74 @@
+// ============================================
+// HONORS, CERTIFICATIONS & LANGUAGES
+// ============================================
+
+.info-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: $spacing-lg;
+}
+
+.info-column {
+  h3 {
+    font-family: $font-body;
+    font-size: $text-xs;
+    text-transform: uppercase;
+    letter-spacing: 0.15em;
+    color: $color-ink-muted;
+    margin-bottom: $spacing-sm;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid $color-border;
+    font-weight: 500;
+  }
+}
+
+.info-list {
+  padding: 0;
+  margin: 0;
+
+  li {
+    padding: 0.5rem 0;
+    border-bottom: 1px solid $color-border-light;
+    font-size: $text-sm;
+    color: $color-ink-soft;
+    line-height: 1.5;
+
+    &:last-child {
+      border-bottom: none;
+    }
+  }
+}
+
+.info-detail {
+  display: block;
+  font-size: $text-xs;
+  color: $color-ink-muted;
+  margin-top: 0.15rem;
+}
+
+.lang-pills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 0.5rem;
+}
+
+.lang-pill {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0.5rem 1rem;
+  background: $color-bg;
+  border: 1px solid $color-border;
+  border-radius: 3px;
+  font-size: $text-sm;
+  font-weight: 500;
+  color: $color-ink-soft;
+  font-family: $font-body;
+}
+
+.pill-level {
+  font-size: $text-xs;
+  color: $color-ink-muted;
+  font-weight: 400;
+}

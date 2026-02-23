@@ -1,0 +1,94 @@
+// ============================================
+// FOOTER — Minimal dark, left-aligned
+// ============================================
+
+.footer {
+  padding: $spacing-xl 0 $spacing-lg;
+  background: $color-bg-deep;
+  color: rgba(#fff, 0.5);
+}
+
+.footer-inner {
+  max-width: $max-width;
+  margin: 0 auto;
+  padding: 0 $spacing-lg;
+
+  @media (max-width: $bp-tablet) {
+    padding: 0 $spacing-md;
+  }
+}
+
+.footer-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding-bottom: $spacing-lg;
+  border-bottom: 1px solid rgba(#fff, 0.08);
+
+  @media (max-width: $bp-tablet) {
+    flex-direction: column;
+    gap: $spacing-md;
+  }
+}
+
+.footer-identity {
+  .footer-name {
+    font-family: $font-display;
+    font-size: $text-lg;
+    color: rgba(#fff, 0.9);
+    margin-bottom: 0.25rem;
+  }
+
+  .footer-affiliation {
+    font-size: $text-sm;
+    color: rgba(#fff, 0.4);
+
+    a {
+      color: rgba(#fff, 0.5);
+      border-bottom: 1px solid rgba(#fff, 0.15);
+      transition: color 0.3s ease, border-color 0.3s ease;
+
+      &:hover {
+        color: #fff;
+        border-color: $color-accent;
+      }
+    }
+  }
+
+  .footer-email a {
+    font-size: $text-sm;
+    color: rgba(#fff, 0.4);
+    transition: color 0.3s ease;
+
+    &:hover {
+      color: #fff;
+    }
+  }
+}
+
+.footer-links {
+  display: flex;
+  gap: $spacing-md;
+
+  @media (max-width: $bp-tablet) {
+    flex-wrap: wrap;
+    gap: $spacing-sm;
+  }
+
+  a {
+    font-family: $font-body;
+    font-size: $text-sm;
+    color: rgba(#fff, 0.4);
+    transition: color 0.3s ease;
+
+    &:hover {
+      color: #fff;
+    }
+  }
+}
+
+.footer-bottom {
+  padding-top: $spacing-md;
+  font-size: $text-xs;
+  color: rgba(#fff, 0.25);
+}

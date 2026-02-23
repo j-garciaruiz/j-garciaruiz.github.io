@@ -3,20 +3,14 @@ layout: default
 ---
 
 <header class="hero">
-    <div class="container">
-        <div class="hero-content">
-            <h1>{{ site.author.name }}</h1>
-            <p class="subtitle">{{ site.author.credentials }}</p>
-            <p class="tagline">Global Health Consultant | Director @Decilion | Harvard MPH | Oxford MBA</p>
-            <div class="hero-affiliations">
-                <span>Decilion</span>
-                <span class="separator">&middot;</span>
-                <span>Harvard T.H. Chan School of Public Health</span>
-                <span class="separator">&middot;</span>
-                <span>Universidad de los Andes</span>
-                <span class="separator">&middot;</span>
-                <span>Universidad del Rosario</span>
-            </div>
+    <div class="hero-content">
+        <p class="hero-credentials">{{ site.author.credentials }}</p>
+        <h1 class="hero-name">{{ site.author.name }}</h1>
+        <p class="hero-tagline">Global health consultant specializing in pharmaceutical policy, health systems, and access to medicines in Latin America and the Caribbean.</p>
+        <div class="hero-affiliations">
+            <span>Decilion</span>
+            <span>Harvard T.H. Chan School of Public Health</span>
+            <span>Universidad de los Andes</span>
         </div>
     </div>
 </header>

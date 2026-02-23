@@ -1,0 +1,103 @@
+// ============================================
+// EXPERIENCE — Clean list layout
+// ============================================
+
+.exp-heading {
+  font-family: $font-body;
+  font-size: $text-xs;
+  text-transform: uppercase;
+  letter-spacing: 0.15em;
+  color: $color-ink-muted;
+  margin-bottom: $spacing-md;
+  font-weight: 500;
+}
+
+// Current positions — clean list
+.exp-current-list {
+  margin-bottom: $spacing-lg;
+}
+
+.exp-entry {
+  display: grid;
+  grid-template-columns: 200px 1fr;
+  gap: $spacing-md;
+  padding: 1.75rem 0;
+  border-bottom: 1px solid $color-border-light;
+
+  &:first-child {
+    padding-top: 0;
+  }
+
+  &:last-child {
+    border-bottom: none;
+  }
+
+  @media (max-width: $bp-tablet) {
+    grid-template-columns: 1fr;
+    gap: 0.25rem;
+  }
+}
+
+.exp-org-name {
+  font-family: $font-body;
+  font-size: $text-sm;
+  color: $color-warm-dark;
+  font-weight: 500;
+  padding-top: 0.2rem;
+}
+
+.exp-role {
+  h4 {
+    font-family: $font-display;
+    font-size: $text-base;
+    font-weight: 500;
+    margin-bottom: 0.25rem;
+  }
+
+  .exp-dates {
+    font-size: $text-xs;
+    color: $color-ink-muted;
+    margin-bottom: 0.5rem;
+  }
+
+  .exp-desc {
+    font-size: $text-sm;
+    color: $color-ink-muted;
+    line-height: 1.6;
+  }
+}
+
+// Previous positions — two columns, condensed
+.exp-previous {
+  columns: 2;
+  column-gap: $spacing-lg;
+
+  @media (max-width: $bp-tablet) {
+    columns: 1;
+  }
+}
+
+.exp-prev-item {
+  break-inside: avoid;
+  margin-bottom: 1.5rem;
+
+  h4 {
+    font-family: $font-display;
+    font-size: $text-sm;
+    font-weight: 500;
+    margin-bottom: 0.15rem;
+    color: $color-ink;
+  }
+
+  .exp-org {
+    font-size: $text-xs;
+    color: $color-warm-dark;
+    font-weight: 500;
+    margin-bottom: 0.15rem;
+  }
+
+  .exp-desc {
+    font-size: $text-xs;
+    color: $color-ink-muted;
+  }
+}

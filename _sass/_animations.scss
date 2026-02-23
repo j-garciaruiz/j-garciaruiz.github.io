@@ -1,0 +1,90 @@
+// ============================================
+// ANIMATIONS — Scroll reveals & hero entrance
+// ============================================
+
+// Respect user preference
+@media (prefers-reduced-motion: reduce) {
+  .reveal,
+  .reveal-stagger .reveal-child,
+  .hero-content .hero-credentials,
+  .hero-content .hero-name,
+  .hero-content .hero-tagline,
+  .hero-content .hero-affiliations {
+    opacity: 1 !important;
+    transform: none !important;
+    animation: none !important;
+  }
+}
+
+// --- Scroll reveal ---
+.reveal {
+  opacity: 0;
+  transform: translateY(24px);
+  transition: opacity 0.8s cubic-bezier(0.16, 1, 0.3, 1),
+              transform 0.8s cubic-bezier(0.16, 1, 0.3, 1);
+
+  &.is-visible {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+// --- Stagger children ---
+.reveal-stagger {
+  .reveal-child {
+    opacity: 0;
+    transform: translateY(16px);
+    transition: opacity 0.6s cubic-bezier(0.16, 1, 0.3, 1),
+                transform 0.6s cubic-bezier(0.16, 1, 0.3, 1);
+  }
+
+  &.is-visible .reveal-child {
+    opacity: 1;
+    transform: translateY(0);
+
+    @for $i from 1 through 12 {
+      &:nth-child(#{$i}) {
+        transition-delay: #{$i * 0.08}s;
+      }
+    }
+  }
+}
+
+// --- Hero entrance ---
+.hero-content {
+  .hero-credentials {
+    opacity: 0;
+    transform: translateY(12px);
+    animation: fadeUp 0.8s cubic-bezier(0.16, 1, 0.3, 1) 0.2s forwards;
+  }
+
+  .hero-name {
+    opacity: 0;
+    transform: translateY(20px);
+    animation: fadeUp 0.8s cubic-bezier(0.16, 1, 0.3, 1) 0.4s forwards;
+  }
+
+  .hero-tagline {
+    opacity: 0;
+    transform: translateY(16px);
+    animation: fadeUp 0.8s cubic-bezier(0.16, 1, 0.3, 1) 0.6s forwards;
+  }
+
+  .hero-affiliations {
+    opacity: 0;
+    animation: fadeIn 0.8s ease 0.9s forwards;
+  }
+}
+
+@keyframes fadeUp {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes fadeIn {
+  to {
+    opacity: 1;
+  }
+}

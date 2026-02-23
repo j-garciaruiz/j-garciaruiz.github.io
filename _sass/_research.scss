@@ -1,0 +1,30 @@
+// ============================================
+// RESEARCH INTERESTS — Simple two-column list
+// ============================================
+
+.research-list {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: $spacing-md 4rem;
+  max-width: 900px;
+
+  @media (max-width: $bp-tablet) {
+    grid-template-columns: 1fr;
+  }
+}
+
+.research-item {
+  h3 {
+    font-family: $font-display;
+    font-size: $text-lg;
+    font-weight: 500;
+    margin-bottom: 0.5rem;
+    color: $color-ink;
+  }
+
+  p {
+    font-size: $text-sm;
+    color: $color-ink-muted;
+    line-height: 1.7;
+  }
+}

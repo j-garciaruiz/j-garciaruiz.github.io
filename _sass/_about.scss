@@ -1,0 +1,77 @@
+// ============================================
+// ABOUT — Lead paragraph + two-column body + metrics
+// ============================================
+
+.about-content {
+  max-width: 1000px;
+}
+
+.about-lead {
+  font-family: $font-display;
+  font-size: $text-xl;
+  font-weight: 400;
+  line-height: 1.6;
+  color: $color-ink;
+  margin-bottom: $spacing-lg;
+  max-width: 800px;
+}
+
+.about-body {
+  columns: 2;
+  column-gap: $spacing-lg;
+  font-size: $text-base;
+  line-height: 1.8;
+  color: $color-ink-soft;
+
+  @media (max-width: $bp-tablet) {
+    columns: 1;
+  }
+
+  p {
+    margin-bottom: 1.25rem;
+    break-inside: avoid;
+  }
+}
+
+.metrics-strip {
+  display: flex;
+  justify-content: flex-start;
+  gap: 5rem;
+  margin-top: 4rem;
+  padding-top: $spacing-lg;
+  border-top: 1px solid $color-border;
+
+  @media (max-width: $bp-tablet) {
+    flex-wrap: wrap;
+    gap: 2rem 3rem;
+  }
+
+  @media (max-width: $bp-mobile) {
+    gap: 2rem;
+  }
+}
+
+.metric-item {
+  text-align: left;
+
+  .metric-number {
+    font-family: $font-display;
+    font-size: 3.5rem;
+    font-weight: 400;
+    color: $color-ink;
+    line-height: 1;
+    margin-bottom: 0.5rem;
+
+    @media (max-width: $bp-mobile) {
+      font-size: 2.5rem;
+    }
+  }
+
+  .metric-label {
+    font-family: $font-body;
+    font-size: $text-xs;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: $color-ink-muted;
+  }
+}

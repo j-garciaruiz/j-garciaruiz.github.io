@@ -1,0 +1,274 @@
+// ============================================
+// PUBLICATIONS — Editorial list layout
+// ============================================
+
+// --- Homepage selected publications ---
+.publications-list {
+  display: flex;
+  flex-direction: column;
+}
+
+.publication {
+  display: grid;
+  grid-template-columns: 60px 1fr;
+  gap: 1.5rem;
+  padding: $spacing-md 0;
+  border-bottom: 1px solid $color-border;
+
+  &:first-child {
+    padding-top: 0;
+  }
+
+  &:last-child {
+    border-bottom: none;
+  }
+
+  @media (max-width: $bp-mobile) {
+    grid-template-columns: 1fr;
+    gap: 0.25rem;
+  }
+}
+
+.pub-year {
+  font-family: $font-display;
+  font-size: $text-lg;
+  color: $color-accent;
+  font-weight: 400;
+  flex-shrink: 0;
+}
+
+.pub-body {
+  h3 {
+    font-family: $font-display;
+    font-size: $text-lg;
+    font-weight: 500;
+    line-height: 1.4;
+    margin-bottom: 0.5rem;
+    color: $color-ink;
+  }
+
+  .authors {
+    font-size: $text-sm;
+    color: $color-ink-soft;
+    margin-bottom: 0.25rem;
+  }
+
+  .journal {
+    font-size: $text-sm;
+    font-style: italic;
+    color: $color-warm-dark;
+    margin-bottom: 0.5rem;
+  }
+
+  .description {
+    font-size: $text-sm;
+    color: $color-ink-muted;
+    line-height: 1.6;
+  }
+}
+
+.publications-more {
+  margin-top: $spacing-md;
+  font-family: $font-body;
+  font-size: $text-sm;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+
+  a {
+    color: $color-accent;
+    border-bottom: 1px solid transparent;
+    transition: border-color 0.3s ease;
+
+    &:hover {
+      border-color: $color-accent;
+    }
+  }
+}
+
+// --- Dedicated publications page ---
+.publications-intro {
+  max-width: 800px;
+  margin-bottom: 4rem;
+
+  p {
+    font-family: $font-display;
+    font-size: $text-xl;
+    font-weight: 400;
+    line-height: 1.6;
+    color: $color-ink;
+  }
+}
+
+.publications-categories {
+  max-width: 1000px;
+}
+
+.pub-category-section {
+  margin-bottom: $spacing-xl;
+}
+
+.category-title {
+  font-family: $font-display;
+  font-size: $text-xl;
+  font-weight: 400;
+  color: $color-ink;
+  margin-bottom: $spacing-lg;
+  padding-bottom: $spacing-sm;
+  border-bottom: 1px solid $color-border;
+}
+
+.publication-card {
+  display: grid;
+  grid-template-columns: 60px 1fr;
+  gap: 1.5rem;
+  padding: $spacing-md 0;
+  border-bottom: 1px solid $color-border-light;
+
+  &:last-child {
+    border-bottom: none;
+  }
+
+  @media (max-width: $bp-mobile) {
+    grid-template-columns: 1fr;
+    gap: 0.25rem;
+  }
+}
+
+.pub-content {
+  h3 {
+    font-family: $font-display;
+    font-size: $text-lg;
+    font-weight: 500;
+    margin-bottom: $spacing-xs;
+    line-height: 1.4;
+    color: $color-ink;
+  }
+
+  .authors {
+    font-size: $text-sm;
+    color: $color-ink-soft;
+    margin-bottom: 0.25rem;
+  }
+
+  .journal {
+    font-size: $text-sm;
+    color: $color-warm-dark;
+    font-style: italic;
+    margin-bottom: $spacing-sm;
+  }
+
+  .abstract {
+    font-size: $text-sm;
+    color: $color-ink-muted;
+    line-height: 1.6;
+    margin-bottom: $spacing-sm;
+  }
+}
+
+.pub-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.pub-tag {
+  display: inline-block;
+  padding: 0.2rem 0.6rem;
+  font-family: $font-body;
+  font-size: $text-xs;
+  color: $color-ink-muted;
+  border: 1px solid $color-border;
+  border-radius: 3px;
+  transition: border-color 0.3s ease, color 0.3s ease;
+
+  &:hover {
+    border-color: $color-accent;
+    color: $color-accent;
+  }
+}
+
+// Reports section
+.report-list {
+  display: grid;
+  gap: 0;
+}
+
+.report-item {
+  padding: $spacing-md 0;
+  border-bottom: 1px solid $color-border-light;
+
+  &:first-child {
+    padding-top: 0;
+  }
+
+  &:last-child {
+    border-bottom: none;
+  }
+
+  h4 {
+    font-family: $font-display;
+    font-size: $text-md;
+    font-weight: 500;
+    margin-bottom: 0.25rem;
+    color: $color-ink;
+  }
+}
+
+.report-org {
+  font-size: $text-sm;
+  color: $color-warm-dark;
+  font-weight: 500;
+  margin-bottom: 0.25rem;
+}
+
+.report-desc {
+  font-size: $text-sm;
+  color: $color-ink-muted;
+  margin-bottom: 0.5rem;
+}
+
+.report-year {
+  font-family: $font-body;
+  font-size: $text-xs;
+  color: $color-ink-muted;
+}
+
+// Google Scholar CTA
+.scholar-link-section {
+  margin-top: $spacing-xl;
+  padding: $spacing-lg;
+  background: $color-bg-deep;
+  border-radius: 4px;
+  text-align: center;
+
+  p {
+    color: rgba(#fff, 0.6);
+    font-size: $text-base;
+    margin-bottom: $spacing-sm;
+  }
+}
+
+.scholar-button {
+  display: inline-flex;
+  align-items: center;
+  gap: $spacing-xs;
+  font-family: $font-body;
+  font-size: $text-sm;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: rgba(#fff, 0.7);
+  padding-bottom: 2px;
+  border-bottom: 1px solid rgba(#fff, 0.3);
+  transition: color 0.3s ease, border-color 0.3s ease;
+
+  &:hover {
+    color: #fff;
+    border-color: $color-accent;
+  }
+
+  svg {
+    width: 16px;
+    height: 16px;
+  }
+}

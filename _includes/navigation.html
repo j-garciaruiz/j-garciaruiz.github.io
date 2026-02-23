@@ -9,7 +9,7 @@
         </button>
         <ul class="nav-menu" id="primary-navigation">
             {% for item in site.navigation %}
-            <li><a href="{{ item.url | relative_url }}"{% if page.url == item.url or item.url == page.permalink %} class="active"{% endif %}>{{ item.title }}</a></li>
+            <li><a href="{{ item.url | relative_url }}"{% if item.external %} target="_blank" rel="noopener"{% endif %}{% if page.url == item.url or item.url == page.permalink %} class="active"{% endif %}>{{ item.title }}{% if item.external %}<span class="external-icon" aria-hidden="true">&hairsp;&#x2197;</span>{% endif %}</a></li>
             {% endfor %}
         </ul>
     </div>
@@ -18,10 +18,16 @@
     document.addEventListener('DOMContentLoaded', () => {
         const toggle = document.querySelector('.nav-toggle');
         const menu = document.querySelector('#primary-navigation');
+        const navbar = document.querySelector('.navbar');
 
-        if (!toggle || !menu) {
-            return;
-        }
+        if (!toggle || !menu) return;
+
+        // Scroll: transparent → solid
+        const onScroll = () => {
+            navbar.classList.toggle('scrolled', window.scrollY > 50);
+        };
+        window.addEventListener('scroll', onScroll, { passive: true });
+        onScroll();
 
         const closeMenu = () => {
             toggle.setAttribute('aria-expanded', 'false');
@@ -34,12 +40,10 @@
             menu.classList.toggle('is-open');
         });
 
-        // Close menu when clicking a link
         menu.querySelectorAll('a').forEach(link => {
             link.addEventListener('click', closeMenu);
         });
 
-        // Close menu when clicking outside
         document.addEventListener('click', (event) => {
             const isClickInside = toggle.contains(event.target) || menu.contains(event.target);
             if (!isClickInside && menu.classList.contains('is-open')) {
@@ -47,7 +51,7 @@
             }
         });
 
-        // Highlight active section on homepage scroll
+        // Highlight active section on homepage
         if (window.location.pathname === '/' || window.location.pathname === '/index.html') {
             const sections = document.querySelectorAll('section[id]');
             const navLinks = document.querySelectorAll('.nav-menu a');

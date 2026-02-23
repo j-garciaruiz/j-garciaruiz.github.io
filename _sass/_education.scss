@@ -1,0 +1,58 @@
+// ============================================
+// EDUCATION — Clean grid, no timeline dots
+// ============================================
+
+.education-list {
+  max-width: 800px;
+}
+
+.education-entry {
+  display: grid;
+  grid-template-columns: 140px 1fr;
+  gap: $spacing-md;
+  padding: 2.5rem 0;
+  border-bottom: 1px solid $color-border;
+  align-items: start;
+
+  &:first-child {
+    padding-top: 0;
+  }
+
+  &:last-child {
+    border-bottom: none;
+  }
+
+  @media (max-width: $bp-tablet) {
+    grid-template-columns: 1fr;
+    gap: 0.25rem;
+  }
+}
+
+.education-year {
+  font-family: $font-body;
+  font-size: $text-sm;
+  color: $color-ink-muted;
+  padding-top: 0.35rem;
+}
+
+.education-detail {
+  h3 {
+    font-family: $font-display;
+    font-size: $text-lg;
+    font-weight: 500;
+    margin-bottom: 0.25rem;
+  }
+
+  .institution {
+    font-family: $font-body;
+    font-weight: 500;
+    color: $color-warm-dark;
+    font-size: $text-base;
+    margin-bottom: 0.25rem;
+  }
+
+  .details {
+    font-size: $text-sm;
+    color: $color-ink-muted;
+  }
+}

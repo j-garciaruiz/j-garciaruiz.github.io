@@ -1,0 +1,22 @@
+---
+# Front matter required for Jekyll SCSS processing
+---
+
+@import "variables";
+@import "reset";
+@import "typography";
+@import "layout";
+@import "navigation";
+@import "hero";
+@import "sections";
+@import "about";
+@import "education";
+@import "research";
+@import "publications";
+@import "experience";
+@import "teaching";
+@import "honors";
+@import "cta";
+@import "footer";
+@import "animations";
+@import "utilities";

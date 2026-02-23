@@ -1,0 +1,52 @@
+// ============================================
+// TEACHING — Courses & thesis advising
+// ============================================
+
+.teaching-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: $spacing-lg;
+}
+
+.teaching-category {
+  h3 {
+    font-family: $font-body;
+    font-size: $text-xs;
+    text-transform: uppercase;
+    letter-spacing: 0.15em;
+    color: $color-ink-muted;
+    margin-bottom: $spacing-md;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid $color-border;
+    font-weight: 500;
+  }
+}
+
+.teaching-item {
+  padding: $spacing-sm 0;
+  border-bottom: 1px solid $color-border-light;
+
+  &:last-child {
+    border-bottom: none;
+  }
+
+  h4 {
+    font-family: $font-display;
+    font-size: $text-base;
+    font-weight: 500;
+    margin-bottom: 0.25rem;
+  }
+
+  .org {
+    color: $color-warm-dark;
+    font-weight: 500;
+    font-size: $text-sm;
+    margin-bottom: 0.25rem;
+  }
+
+  p {
+    font-size: $text-sm;
+    color: $color-ink-muted;
+    margin-bottom: 0;
+  }
+}

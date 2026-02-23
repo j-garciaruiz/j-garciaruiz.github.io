@@ -22,5 +22,8 @@ Thumbs.db
 .vscode/
 .idea/
 
-# Node modules (if using npm for any frontend tooling)
+# Node modules
 node_modules/
+
+# Logs
+*.log

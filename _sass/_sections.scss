@@ -1,0 +1,25 @@
+// ============================================
+// SECTIONS — Additional section-level styles
+// ============================================
+
+// Page header (for publications page etc.)
+.page-header {
+  padding: calc($spacing-xl + $nav-height) 0 $spacing-lg;
+  background: $color-bg-hero;
+  text-align: left;
+
+  h1 {
+    margin-bottom: $spacing-xs;
+  }
+
+  @media (max-width: $bp-tablet) {
+    padding: calc(4rem + $nav-height) 0 $spacing-md;
+  }
+}
+
+.page-subtitle {
+  font-family: $font-body;
+  font-size: $text-md;
+  color: $color-ink-muted;
+  max-width: 700px;
+}

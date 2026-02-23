@@ -1,0 +1,93 @@
+// ============================================
+// HERO — Full-viewport, left-aligned statement
+// ============================================
+
+.hero {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  padding: 0;
+  background-color: $color-bg-hero;
+  position: relative;
+  overflow: hidden;
+
+  // Subtle decorative vertical line
+  &::before {
+    content: '';
+    position: absolute;
+    left: 8vw;
+    top: 0;
+    bottom: 0;
+    width: 1px;
+    background: linear-gradient(
+      to bottom,
+      transparent 0%,
+      $color-rule 20%,
+      $color-rule 80%,
+      transparent 100%
+    );
+    opacity: 0.4;
+  }
+}
+
+.hero-content {
+  max-width: 900px;
+  margin-left: 12vw;
+  text-align: left;
+  padding: 6rem $spacing-md;
+
+  @media (max-width: $bp-tablet) {
+    margin-left: 0;
+    padding: calc($nav-height + 3rem) $spacing-md 3rem;
+  }
+}
+
+.hero-credentials {
+  font-family: $font-body;
+  font-size: $text-sm;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  color: $color-accent;
+  margin-bottom: $spacing-md;
+}
+
+.hero-name {
+  font-family: $font-display;
+  font-size: $text-4xl;
+  font-weight: 400;
+  letter-spacing: -0.03em;
+  line-height: 1.05;
+  color: $color-ink;
+  margin-bottom: 1.5rem;
+
+  @media (max-width: $bp-tablet) {
+    font-size: $text-3xl;
+  }
+
+  @media (max-width: $bp-mobile) {
+    font-size: $text-2xl;
+  }
+}
+
+.hero-tagline {
+  font-family: $font-body;
+  font-size: $text-md;
+  color: $color-ink-soft;
+  line-height: 1.7;
+  max-width: 600px;
+  margin-bottom: 2.5rem;
+}
+
+.hero-affiliations {
+  display: flex;
+  gap: 2rem;
+  font-family: $font-body;
+  font-size: $text-sm;
+  color: $color-ink-muted;
+
+  @media (max-width: $bp-tablet) {
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+}

@@ -1,0 +1,76 @@
+// ============================================
+// UTILITIES — Back-to-top, print, misc
+// ============================================
+
+// Back to top button
+.back-to-top {
+  position: fixed;
+  bottom: 2rem;
+  right: 2rem;
+  width: 44px;
+  height: 44px;
+  background: $color-ink;
+  color: #fff;
+  border: none;
+  border-radius: 50%;
+  box-shadow: $shadow-md;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(20px);
+  transition: all 0.3s ease;
+  z-index: 999;
+
+  &.visible {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0);
+  }
+
+  &:hover {
+    background: $color-accent;
+    transform: translateY(-2px);
+    box-shadow: $shadow-lg;
+  }
+
+  @media (max-width: $bp-tablet) {
+    bottom: 1.5rem;
+    right: 1.5rem;
+    width: 40px;
+    height: 40px;
+  }
+}
+
+// Print styles
+@media print {
+  .navbar,
+  .back-to-top {
+    display: none;
+  }
+
+  .hero {
+    min-height: auto;
+    padding: $spacing-md 0;
+
+    &::before {
+      display: none;
+    }
+  }
+
+  .section {
+    padding: $spacing-md 0;
+  }
+
+  a {
+    color: $color-ink;
+  }
+
+  .footer {
+    border-top: 1px solid $color-ink;
+    background: none;
+    color: $color-ink;
+  }
+}
